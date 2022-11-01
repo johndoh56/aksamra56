@@ -10,6 +10,10 @@ aksamra56/README.md
 
 📫 Reach me at akashdeepssamra@gmail.com
 
+Website to reach me @ mockup: 
+
+[https://www.figma.com/file/7HudXLaqltM86IoDhj2HEK/AK-Developing-Website-Mockup?node-id=0%3A1]
+
 <!--
 
 **aksamra56/aksamra56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
