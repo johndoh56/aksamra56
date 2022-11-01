@@ -6,7 +6,7 @@ aksamra56/README.md
 
 💬 I’m interested in the web development field
 
-🌱 I’m currently learning web developing at Sait
+👀 I’m currently learning web developing at Sait
 
 📫 Reach me at akashdeepssamra@gmail.com
 
